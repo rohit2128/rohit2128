@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **rohitjadhav6198@gmail.com**
 
+- 🌱 I’m currently learning **[REACT.JS,NODE.JS,PHP](https://reactjs.org/)**
+
+- 💬 Ask me about **[HTML,JAVASCRIPT,CSS,BOOTSTRAP](https://reactjs.org/)**
+
 - ⚡ Hobbies **I love to do adventure traveling and being updated on the tech trends**
 
 - ⛓ Blockchain Enthusiast
